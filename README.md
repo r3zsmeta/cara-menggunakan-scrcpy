@@ -11,4 +11,5 @@ Langkah-langkah:
 4. Jika sudah kemudian kembali, lalu cari Developer options> Aktifkan USB Debugging. Sampai sini anda bisa menghubungkan perangkat android dengan PC
 5. Di Pc buka file explorer cari dan ekstrak file scrcpy yang sudah anda download tadi.
 6. Buka command prompt(cmd) ketik cd Users/Acer/Documents/SCRCPY/ seuntuk berpindah direktori folder dan masuk ke direktori folder sesuai tempat file scrcpy yang telah kalian download tdi
-7. Kemudian ketik scrcpy, selesai.
+7. Kemudian ketik scrcpy 
+8. selesai
