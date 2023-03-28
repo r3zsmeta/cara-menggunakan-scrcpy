@@ -1,0 +1,9 @@
+div {
+    background-color:blueviolet;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;  
+    overflow:hidden;
+    text-align:center;
+    line-height: 50%;  
+} div img { width: 300px;}
